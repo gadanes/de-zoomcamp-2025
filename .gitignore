@@ -1,3 +1,6 @@
 .DS_Store
 .terraform.lock.hcl
-.terraform/providers/
+.terraform/providers
+.venv
+.terraform
+ny_taxi_postgres_data
