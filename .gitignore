@@ -4,3 +4,9 @@
 .venv
 .terraform
 ny_taxi_postgres_data
+
+
+#data
+01-docker-terraform/docker/yellow_tripdata_2021-01.csv
+01-docker-terraform/docker/taxi_zone_lookup.csv 
+
